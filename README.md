@@ -16,12 +16,12 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="auto" height="32" alt="css3 logo"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="auto" height="32" alt="javascript logo"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width="auto" height="32" alt="typescript logo" />
-  <!--<img src="https://pngimg.com/uploads/php/php_PNG10.png" height="36" alt="php logo"/>
+  <img src="https://pngimg.com/uploads/php/php_PNG10.png" height="36" alt="php logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="react logo"/>
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
-  <img width="12" />-->
+  <img width="12" />
 </div>
 
 ## 📊 GitHub Stats:

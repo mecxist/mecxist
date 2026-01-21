@@ -3,10 +3,10 @@
 </div>
 
 ## 🧝🏾 About Me:
-🥊  I fight against fascism daily<br>
-💬  I've been vibe coding since May<br>
-🌱  I dream of JavaScript mastery<br>
-🤝  I'm open to collaborations<br>
+💬  Been vibe coding since May<br>
+🥊  Currently pioneering Applied LIberatory Intelligence<br>
+🌱  Dreaming of JavaScript mastery<br>
+🤝  Open to collaborations<br>
 
 
 

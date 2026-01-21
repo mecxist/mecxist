@@ -3,7 +3,7 @@
 </div>
 
 ## 🧝🏾 About Me:
-💬  Been vibe coding since May<br>
+💬  Vibe coding since March 2025<br>
 🥊  Currently pioneering Applied LIberatory Intelligence<br>
 🌱  Dreaming of JavaScript mastery<br>
 🤝  Open to collaborations<br>

@@ -58,6 +58,6 @@ If you're building governance-aware systems, designing post-extractive infrastru
 
 ---
 
-[![mec.dev profile visits](https://mec.dev/api/analytics/github-counter?key=mecdot-github-profile&label=mec.dev%20profile%20visits)](https://mec.dev)
+[![profile visits](https://mec.dev/api/analytics/github-counter?key=mecdot-github-profile&label=profile%20visits)](https://mec.dev)
 
 mec.dev © 2026

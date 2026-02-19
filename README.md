@@ -2,34 +2,69 @@
   <img src="https://pbs.twimg.com/profile_banners/980079623852773377/1693009945/1500x500"/>
 </div>
 
-## 🧝🏾 About Me:
-💬  Vibe coding since March 2025<br>
-🥊  Currently pioneering Applied LIberatory Intelligence<br>
-🌱  Dreaming of JavaScript mastery<br>
-🤝  Open to collaborations<br>
-
-
+## About Me:
+💬  My name is M.J. Zilla <br>
+🧑🏾‍💻  I'm the Founder & Chief Systems Officer, of a stealth, discipline-led venture lab + studio<br>
+🥊  and am the Founding Practioner & Discipline Architect of Post-Imperial Systems Intervention & Design (PSID)<br>
 
 ## 💻 Tech Stack:
 <div>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="auto" height="32" alt="html5 logo"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="auto" height="32" alt="css3 logo"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="auto" height="32" alt="javascript logo"/>
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" width="auto" height="32" alt="javascript logo"/>
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="auto" height="32" alt="javascript logo"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width="auto" height="32" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="auto" height="32" alt="javascript logo"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="auto" height="32" alt="html5 logo"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="auto" height="32" alt="css3 logo"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="auto" height="32" alt="javascript logo"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" width="auto" height="32" alt="javascript logo"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="auto" height="32" alt="javascript logo"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width="auto" height="32" alt="typescript logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="auto" height="32" alt="javascript logo"/>
 </div>
 
-## 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=43kNot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=43kNot&theme=dark&hide_border=false)<br/>-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mecxist&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-<!--## 💰 Show Support!
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mecdot) -->
+## Posture
+I'm focuded on building the theories, methods, systems, and tooling to reform, redesign, or replace institutions where power has become entrenched, extractive, or unaccountable. Modern socio-technical systems routinely extract time, labor, attention, capital, and identity under manufactured consent. I study and design alternatives.
 
-  ---
-[![](https://visitcount.itsvg.in/api?id=mecxist&icon=5&color=12)](https://visitcount.itsvg.in)
-<!-- 43kNot 2024 -->
+My work is oriented toward:
+- Legitimacy of power  
+- Removability of authority  
+- Real exit without catastrophic loss  
+- Transparent extraction boundaries  
+- Non-manipulated information flows  
+- Durable collective self-determination  
+
+---
+
+## Philosophy of Engineering
+
+Power must be:
+- Inspectable (visible)
+- Contestable (challengeable)
+- Removable (deposable)
+- Bounded (limited)
+- Accountable (consequence-bearing)
+
+If a system cannot survive those tests, it is not legitimate.
+
+Software is not neutral. Infrastructure encodes governance.  
+This profile documents experiments in building systems that preserve agency rather than erode it.
+
+## Active Projects
+
+- **PSID Canon Formation**
+- **ALI Method Expansion**
+- **ALIAS Audit Architecture**
+- **HackStack (platformized liberatory tooling)**
+
+More to come as theory becomes infrastructure.
+If you're building governance-aware systems, designing post-extractive infrastructure, or interested in durable socio-technical reconstruction, do reach out.
+
+---
+
+## 📈 GitHub Stats
+<!-- Stats card auto-generated -->
+![mecxist GitHub Stats](https://github-readme-stats.vercel.app/api?username=mecxist&show_icons=true&theme=default)
+
+
+![mec.bot profile visits](https://mec.dev/api/analytics/github-counter?key=mecdot-github-profile&label=mec.bot%20profile%20visits)
+
+mec.dev © 2026

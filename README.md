@@ -22,7 +22,7 @@
 ---
 
 ## Posture
-I'm focuded on building the theories, methods, systems, and tooling to reform, redesign, or replace institutions where power has become entrenched, extractive, or unaccountable. Modern socio-technical systems routinely extract time, labor, attention, capital, and identity under manufactured consent. I study and design alternatives.
+I'm concerned with building the theories, methods, systems, and tooling to reform, redesign, or replace institutions where power has become entrenched, extractive, or unaccountable. Modern socio-technical systems routinely extract time, labor, attention, capital, and identity under manufactured consent. I study and design alternatives.
 
 My work is oriented toward:
 - Legitimacy of power  
@@ -31,8 +31,6 @@ My work is oriented toward:
 - Transparent extraction boundaries  
 - Non-manipulated information flows  
 - Durable collective self-determination  
-
----
 
 ## Philosophy of Engineering
 
@@ -55,15 +53,10 @@ This profile documents experiments in building systems that preserve agency rath
 - **ALIAS Audit Architecture**
 - **HackStack (platformized liberatory tooling)**
 
-More to come as theory becomes infrastructure.
+More to come as theory becomes infrastructure.<br>
 If you're building governance-aware systems, designing post-extractive infrastructure, or interested in durable socio-technical reconstruction, do reach out.
 
 ---
-
-## 📈 GitHub Stats
-<!-- Stats card auto-generated -->
-![mecxist GitHub Stats](https://github-readme-stats.vercel.app/api?username=mecxist&show_icons=true&theme=default)
-
 
 ![mec.bot profile visits](https://mec.dev/api/analytics/github-counter?key=mecdot-github-profile&label=mec.bot%20profile%20visits)
 

@@ -4,8 +4,16 @@
 
 ## About Me:
 💬  My name is M.J. Zilla <br>
-🧑🏾‍💻  I'm the Founder & Chief Systems Officer, of a stealth, discipline-led venture lab + studio<br>
-🥊  and am the Founding Practioner & Discipline Architect of Post-Imperial Systems Intervention & Design (PSID)<br>
+🧑🏾‍💻  I'm the Founder & Chief Architect at a stealth, discipline-led venture laboratory, Co-Founder and CXO of a Digital Trust company and am the Founding Practitioner of Post-Imperial Systems Intervention & Design (PSID)<br>
+
+##What I Do:
+Discovery / technical scoping / architecture / rapid prototyping / integration / deployment / field learning.
+
+I'm a Forward Deployed Engineer working across full-stack product engineering, AI solutions architecture, and intelligence systems design.<br>
+I embed with founders and small teams to turn ambiguous requirements, inherited codebases, and early prototypes into production systems that support real users. My work includes technical scoping, full-stack product engineering, AI/RAG and agent workflows, APIs, data systems, authentication, testing, deployment, and production stabilization. My design background shapes how I build: I optimize for legibility, trust, and systems that hold up under real-world constraints.
+
+##How I Work:
+Something very close to - Discover → Scope → Build → Integrate → Deploy → Learn → Codify
 
 ## 💻 Tech Stack:
 <div>
@@ -22,6 +30,7 @@
 ---
 
 ## Posture
+Systems Posture / Engineering Philosophy
 I'm concerned with building the theories, methods, systems, and tooling to reform, redesign, or replace institutions where power has become entrenched, extractive, or unaccountable. Modern socio-technical systems routinely extract time, labor, attention, capital, and identity under manufactured consent. I study and design alternatives.
 
 My work is oriented toward:
